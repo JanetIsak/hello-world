@@ -2,7 +2,7 @@
 
 ## Authors
 - [iantheninja](https://github.com/iantheninja)
-- Add your clickable username here. It should point to your GitHub account. 
+- [JanetIsak](https://github.com/JanetIsak)
 
 ## Project setup instructions
 To start using this project use the following commands:
@@ -10,6 +10,7 @@ To start using this project use the following commands:
 - `git clone https://github.com/moringaschool/hello-world.git`
 - `cd hello-world`
 - `atom .`
+
 
 ## License info
 MIT License
